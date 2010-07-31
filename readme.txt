@@ -13,8 +13,6 @@ Add file sharing to your website with this simple plugin. Website visitors can s
 
 Visit www.hostedftp.com to learn more
 
-Hosted~FTP~ is *FTP in the Cloud*
-
 == Installation ==
 
 1. Unzip `hostedftp.zip` to the `/wp-content/plugins/` directory
