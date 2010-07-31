@@ -16,13 +16,18 @@ Add file sharing to your website with this simple plugin. Website visitors can s
 
 1. Upload `hostedftp.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Configure `<?php do_action('plugin_name_hook'); ?>` in your sidebar widget area
+3. Visit Appearance->Widgets and drag the Hosted~FTP~ Widget to your Sidebar
+4. Configure
 
 == Frequently Asked Questions ==
 
-= Where do I customize the look and feel? =
+= Where can I sign up for a trial Hosted FTP Account? =
 
-Login to our Hosted FTP Site at ftp.hostedftp.com with your account and click the Plugin Tab
+Visit www.hostedftp.com to learn more about *FTP in the Cloud* and sign up for your free trial account
+
+= How can I customize the look and feel? =
+
+Login to your Hosted FTP Account at ftp.hostedftp.com and click the Plugin Tab
 
 == Screenshots ==
 
