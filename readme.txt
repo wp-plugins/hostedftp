@@ -23,7 +23,7 @@ www.hostedftp.com
 
 == Installation ==
 
-1. Upload `hostedftp.php` to the `/wp-content/plugins/` directory
+1. Unzip `hostedftp.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Visit Appearance->Widgets and drag the Hosted~FTP~ Widget to your Sidebar
 4. Configure
