@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: hostedftp
-Signup link: http://www.hostedftp.com/
+Donate link: http://www.hostedftp.com/
 Tags: comments, spam
 Requires at least: 1.0
 Tested up to: 1.0
