@@ -13,8 +13,12 @@ Add file sharing to your website with this simple plugin. Website visitors can s
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
+
+
 Hosted~FTP~
+
 FTP in the Cloud
+
 www.hostedftp.com
 
 == Installation ==
