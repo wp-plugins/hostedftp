@@ -2,9 +2,8 @@
 Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
 Tags: widget, sidebar, plugin, share
-Requires at least: 1.0
-Tested up to: 1.0
-Stable tag: 1.0
+Requires at least: 2.8
+Tested up to: 3.0.1
 
 Add file sharing to your website. Visitors can share files right into your Hosted FTP Account. Branding, customization and more!
 
