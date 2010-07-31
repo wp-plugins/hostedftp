@@ -38,6 +38,8 @@ Login to your Hosted FTP Account at ftp.hostedftp.com and click the Plugin Tab
 
 = 1.0 =
 
+First release
+
 == Upgrade Notice ==
 
 = 1.0 =
