@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
-Tags: widget, sidebar, plugin, share, upload
+Tags: widget, sidebar, plugin, share, upload, sharing, file, media
 Requires at least: 2.8
 Tested up to: 3.0.1
 
