@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
-Tags: widget, sidebar, plugin, share, upload, sharing, file, media
+Tags: widget, sidebar, plugin, share, upload, sharing, file, ftp, media
 Requires at least: 2.8
 Tested up to: 3.0.1
 
@@ -9,7 +9,7 @@ Add file sharing to your website. Visitors can share files with your Hosted FTP 
 
 == Description ==
 
-Add file sharing to your website with this simple plugin. Website visitors can share files right into your Hosted FTP Account. Upload files in one click. Branding, customization and more!
+Add file sharing to your website with this simple plugin. Your visitors can share files right into your Hosted FTP Account. Upload files in one click. Branding, customization and more!
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
@@ -18,22 +18,24 @@ Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 1. Unzip `hostedftp.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Visit 'Appearance->Widgets' and drag the Hosted~FTP~ Widget to your Sidebar
-4. Configure and customize as needed
+4. Enter your Hosted~FTP~ username (visit www.hostedftp.com for a trial account)
+5. Login to ftp.hostedftp.com and visit the Plugin Tab for more options
 
 == Frequently Asked Questions ==
 
-= Where can I sign up for a trial Hosted FTP Account? =
+= Where can I sign up for a trial Hosted~FTP~ Account? =
 
-Visit www.hostedftp.com to learn more about *FTP in the Cloud* and sign up for your free trial account
+Visit www.hostedftp.com for a free trial account and to learn more about *FTP in the Cloud*
 
 = How can I customize the look and feel? =
 
-Login to your Hosted FTP Account at ftp.hostedftp.com and click the Plugin Tab
+Login to ftp.hostedftp.com and click the Plugin Tab
 
 == Screenshots ==
 
-1. Configure the plugin in your Appearance->Widgets
-2. Simple layout that fits into your existing website
+1. Simple layouts that fit into any website
+2. Configure the plugin from 'Appearance->Widgets'
+3. More options available from your Hosted~FTP~ Account
 
 == Changelog ==
 
