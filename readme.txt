@@ -34,8 +34,8 @@ Login to ftp.hostedftp.com and click the Plugin Tab
 == Screenshots ==
 
 1. Simple layouts that fit into any website
-2. Configure the plugin from 'Appearance->Widgets'
-3. More options available from your Hosted~FTP~ Account
+3. Configure the plugin from 'Appearance->Widgets'
+4. More options available from your Hosted~FTP~ Account
 
 == Changelog ==
 
