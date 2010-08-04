@@ -32,7 +32,8 @@ Login to ftp.hostedftp.com and click the Plugin Tab
 
 == Screenshots ==
 
-1. Simple layouts that fit into any website
+1. Simple layout for your website
+2. Add optional title and greeting
 3. Configure the plugin from 'Appearance->Widgets'
 4. More options available from your Hosted~FTP~ Account
 
