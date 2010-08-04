@@ -5,7 +5,7 @@ Tags: widget, sidebar, plugin, share, upload, sharing, file, ftp, media
 Requires at least: 2.8
 Tested up to: 3.0.1
 
-Add file sharing to your website. Visitors can share files with your Hosted FTP Account. Branding, customization and more!
+Add file sharing to your website. Visitors can share files with your Hosted~FTP~ Account. Branding, customization and more!
 
 == Description ==
 
