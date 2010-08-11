@@ -9,7 +9,7 @@ Add file sharing to your website. Visitors can share files with your Hosted~FTP~
 
 == Description ==
 
-Add file sharing to your website with this simple plugin. Your visitors can share files right with your Hosted~FTP~ Account. Upload files in one click. Branding, customization and more!
+Add file sharing to your website with this simple plugin. Your visitors can share files right with your Hosted~FTP~ Account. Upload and download files in one click. Branding, customization and more!
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
@@ -39,9 +39,14 @@ Login to ftp.hostedftp.com and click the Plugin Tab
 1. Simple layout for your website
 2. Add optional title and greeting
 3. Configure the plugin from 'Appearance->Widgets'
-4. More options available from your Hosted~FTP~ Account
+4. Let visitors download files using their browsers
+5. More options available from your Hosted~FTP~ Account
 
 == Changelog ==
+
+= 1.1 =
+
+File download from Hosted~FTP~ public drives
 
 = 1.0 =
 
