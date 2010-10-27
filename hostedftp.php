@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Hosted~FTP~
+Plugin Name: FTP in the Cloud
 Plugin URI: http://www.hostedftp.com
 Description: Receive files directly to your FTP site with this simple plugin. Allow visitors to browse your public archives. Branding, customization and more. Visit www.hostedftp.com to learn more about FTP in the Cloud!
-Author: Hosted FTP
+Author: Hosted~FTP~
 Version: 1.1
 Author URI: http://www.hostedftp.com/
 */
