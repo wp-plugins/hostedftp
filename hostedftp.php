@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: File Sharing by Hosted~FTP~
-Plugin URI: http://www.hostedftp.com/hosted-ftp-wordpress-plugin-cloud-file-sharing
-Description: Add file sharing to your website with this simple plugin. Website visitors can upload and download files from your Hosted FTP Account. Branding, customization and more. Visit www.hostedftp.com to learn more about FTP in the Cloud!
+Plugin Name: Hosted~FTP~
+Plugin URI: http://www.hostedftp.com
+Description: Receive files directly to your FTP site with this simple plugin. Allow visitors to browse your public archives. Branding, customization and more. Visit www.hostedftp.com to learn more about FTP in the Cloud!
 Author: Hosted FTP
 Version: 1.1
 Author URI: http://www.hostedftp.com/
@@ -19,7 +19,7 @@ global $pluginlinks_attr;
 /* edit defaults here */
 $pluginhelp			= "http://howto.hostedftp.com/";
 $pluginsite			= "ftp.hostedftp.com";
-$pluginbutton		= "Share Files";
+$pluginbutton		= "Send Files";
 $pluginbrowse		= "Browse";
 $pluginusername		= "wordpress";
 $pluginlinks_attr	= "target='_blank'";
