@@ -1,15 +1,15 @@
 === Plugin Name ===
 Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
-Tags: widget, sidebar, plugin, share, upload, sharing, file, ftp, media
+Tags: widget, sidebar, plugin, share, upload, sharing, file, ftp, cloud, media
 Requires at least: 2.8
 Tested up to: 3.0.1
 
-Add file sharing to your website. Visitors can share files with your Hosted~FTP~ Account. Branding, customization and more!
+Receive files directly to your FTP site with this simple plugin
 
 == Description ==
 
-Add file sharing to your website with this simple plugin. Your visitors can share files right with your Hosted~FTP~ Account. Upload and download files in one click. Branding, customization and more!
+Receive files directly to your FTP site with this simple plugin. Allow visitors to browse your public archives. Branding, customization and more.
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
@@ -46,7 +46,7 @@ Login to ftp.hostedftp.com and click the Plugin Tab
 
 = 1.1 =
 
-File download from Hosted~FTP~ public drives
+File download from Hosted~FTP~ public storage
 
 = 1.0 =
 
