@@ -3,7 +3,7 @@ Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
 Tags: ftp, cloud, service, widget, sidebar, plugin, send, receive, share, upload, download, sharing, file, media
 Requires at least: 2.8
-Tested up to: 3.0.1
+Tested up to: 3.1.x
 
 Website visitors can send and receive files with your Hosted~FTP~ account. Branding, custom fields and more to help automate workflows. 100% Hosted in the Amazon Cloud!
 
