@@ -2,7 +2,7 @@
 /*
 Plugin Name: FTP in the Cloud by Hosted~FTP~
 Plugin URI: http://www.hostedftp.com/features/website-plugin
-Description: Receive files directly from your website into your Hosted~FTP~ account. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
+Description: Website visitors can send files right to your Hosted~FTP~ account with this simple plugin. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
 Author: Hosted~FTP~
 Version: 1.1
 Author URI: http://www.hostedftp.com/

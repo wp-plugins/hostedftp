@@ -5,11 +5,11 @@ Tags: ftp, cloud, service, widget, sidebar, plugin, share, upload, sharing, file
 Requires at least: 2.8
 Tested up to: 3.0.1
 
-Receive files directly from your website into your Hosted~FTP~ account. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
+Website visitors can send files right to your Hosted~FTP~ account with this simple plugin. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
 
 == Description ==
 
-Receive files directly from your website into your Hosted~FTP~ account. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
+Website visitors can send files right to your Hosted~FTP~ account with this simple plugin. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
