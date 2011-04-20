@@ -22,7 +22,7 @@ $pluginhelp			= "http://howto.hostedftp.com/";
 $pluginsite			= "ftp.hostedftp.com";
 $pluginbutton		= "Send Files";
 $pluginbrowse		= "Browse";
-$pluginusername		= "wordpress";
+$pluginusername		= "try-it-right-now";
 $pluginlinks_attr	= "target='_blank'";
 
 /**
