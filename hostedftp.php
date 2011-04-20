@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: FTP in the Cloud™
+Plugin Name: FTP in the Cloud by Hosted~FTP~
 Plugin URI: http://www.hostedftp.com/features/website-plugin
-Description: Add FTP to your website with this simple plugin. Website visitors can upload and download files from your FTP site. Branding, customization and more. Visit www.hostedftp.com to learn more about Hosted~FTP~!
+Description: Receive files directly from your website into your Hosted~FTP~ account. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
 Author: Hosted~FTP~
 Version: 1.1
 Author URI: http://www.hostedftp.com/
