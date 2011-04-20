@@ -1,15 +1,15 @@
 === Plugin Name ===
 Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
-Tags: widget, sidebar, plugin, share, upload, sharing, file, ftp, cloud, media
+Tags: ftp, cloud, service, widget, sidebar, plugin, share, upload, sharing, file, media
 Requires at least: 2.8
 Tested up to: 3.0.1
 
-Receive files directly to your FTP site with this simple plugin
+Add FTP to your website. Visitors can send files to your Hosted~FTP~ service. Branding, customization and more!
 
 == Description ==
 
-Receive files directly to your FTP site with this simple plugin. Allow visitors to browse your public archives. Branding, customization and more.
+Add FTP to your website with this simple plugin. Your visitors can send files to your Hosted~FTP~ service. Upload and download files from anonymous/public folders from your web browser. Branding, customization and more!
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
@@ -26,13 +26,13 @@ Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
 Enter your Hosted~FTP~ Account Username 
 
-= Where can I sign up for a Hosted~FTP~ Account? =
+= Where can I sign up for Hosted~FTP~? =
 
-Visit www.hostedftp.com to sign up for a Hosted~FTP Account
+Visit www.hostedftp.com to sign up for Hosted~FTP~
 
 = How can I customize the look and feel? =
 
-Login to ftp.hostedftp.com and click the Plugin Tab
+Login to ftp.hostedftp.com and click the Plugin Tab. From there you can add custom fields and more.
 
 == Screenshots ==
 
@@ -40,13 +40,13 @@ Login to ftp.hostedftp.com and click the Plugin Tab
 2. Add optional title and greeting
 3. Configure the plugin from 'Appearance->Widgets'
 4. Let visitors download files using their browsers
-5. More options available from your Hosted~FTP~ Account
+5. More options available when logged into Hosted~FTP~
 
 == Changelog ==
 
 = 1.1 =
 
-File download from Hosted~FTP~ public storage
+File download from Hosted~FTP~ anonymous/public folders
 
 = 1.0 =
 
