@@ -32,7 +32,7 @@ Visit www.hostedftp.com to sign up for Hosted~FTP~
 
 = How can I customize the look and feel? =
 
-Login to ftp.hostedftp.com and click the Plugin Tab. From there you can add custom fields and more.
+Login to http://ftp.hostedftp.com and click the Plugin Tab. From there you can add custom fields and more.
 
 == Screenshots ==
 
