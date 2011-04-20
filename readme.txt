@@ -5,11 +5,11 @@ Tags: ftp, cloud, service, widget, sidebar, plugin, share, upload, sharing, file
 Requires at least: 2.8
 Tested up to: 3.0.1
 
-Add FTP to your website. Visitors can send files to your Hosted~FTP~ service. Branding, customization and more!
+Receive files directly from your website into your Hosted~FTP~ account. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
 
 == Description ==
 
-Add FTP to your website with this simple plugin. Your visitors can send files to your Hosted~FTP~ service. Upload and download files from anonymous/public folders from your web browser. Branding, customization and more!
+Receive files directly from your website into your Hosted~FTP~ account. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
@@ -24,15 +24,19 @@ Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
 = What is my username? =
 
-Enter your Hosted~FTP~ Account Username 
+Enter your Hosted~FTP~ login email/username 
 
 = Where can I sign up for Hosted~FTP~? =
 
-Visit www.hostedftp.com to sign up for Hosted~FTP~
+Visit www.hostedftp.com to sign up for a Hosted~FTP~ account
+
+= Is there a FREE trial that I can try first? =
+
+Yes! We have 21 Day FREE trials (no credit card required, no hassles). Upgrade anytime.
 
 = How can I customize the look and feel? =
 
-Login to http://ftp.hostedftp.com and click the Plugin Tab. From there you can add custom fields and more.
+Login to http://ftp.hostedftp.com and click the Plugin Tab. Add custom fields, labels and more!
 
 == Screenshots ==
 
@@ -46,7 +50,7 @@ Login to http://ftp.hostedftp.com and click the Plugin Tab. From there you can a
 
 = 1.1 =
 
-File download from Hosted~FTP~ anonymous/public folders
+File download from any Hosted~FTP~ anonymous/public folders
 
 = 1.0 =
 
