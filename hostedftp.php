@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: File Sharing by Hosted~FTP~
-Plugin URI: http://www.hostedftp.com/hosted-ftp-wordpress-plugin-cloud-file-sharing
-Description: Add file sharing to your website with this simple plugin. Website visitors can upload and download files from your Hosted FTP Account. Branding, customization and more. Visit www.hostedftp.com to learn more about FTP in the Cloud!
-Author: Hosted FTP
+Plugin Name: FTP in the Cloud™
+Plugin URI: http://www.hostedftp.com/features/website-plugin
+Description: Add FTP to your website with this simple plugin. Website visitors can upload and download files from your FTP site. Branding, customization and more. Visit www.hostedftp.com to learn more about Hosted~FTP~!
+Author: Hosted~FTP~
 Version: 1.1
 Author URI: http://www.hostedftp.com/
 */
@@ -19,7 +19,7 @@ global $pluginlinks_attr;
 /* edit defaults here */
 $pluginhelp			= "http://howto.hostedftp.com/";
 $pluginsite			= "ftp.hostedftp.com";
-$pluginbutton		= "Share Files";
+$pluginbutton		= "Send Files";
 $pluginbrowse		= "Browse";
 $pluginusername		= "wordpress";
 $pluginlinks_attr	= "target='_blank'";
@@ -62,7 +62,7 @@ function widget_hostedftp() {
   	<table width="100%" cellpadding=0 cellspacing=0>
   		<tr>
   			<td>
-			  <input type="button" value="<?php echo wp_specialchars($options['button'], true) ?>" onclick="javascript:window.open('http://<?php echo wp_specialchars($options['site'], true) ?>/~<?php echo wp_specialchars($options['username'], true)?>/share', 'Title', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=640,height=800')">
+			  <input type="button" value="<?php echo wp_specialchars($options['button'], true) ?>" onclick="javascript:window.open('http://<?php echo wp_specialchars($options['site'], true) ?>/~<?php echo wp_specialchars($options['username'], true)?>/send/', 'Title', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=640,height=800')">
 			</td>
   <?php
 	if (empty($options['links']) || !empty($options['browse'])) {
