@@ -1,15 +1,15 @@
 === Plugin Name ===
 Contributors: hostedftp
 Donate link: http://www.hostedftp.com/
-Tags: ftp, cloud, service, widget, sidebar, plugin, share, upload, sharing, file, media
+Tags: ftp, cloud, service, widget, sidebar, plugin, send, receive, share, upload, download, sharing, file, media
 Requires at least: 2.8
 Tested up to: 3.0.1
 
-Website visitors can send files right to your Hosted~FTP~ account with this simple plugin. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
+Website visitors can send and receive files with your Hosted~FTP~ account. Branding, custom fields and more to help automate workflows. 100% Hosted in the Amazon Cloud!
 
 == Description ==
 
-Website visitors can send files right to your Hosted~FTP~ account with this simple plugin. Branding, custom fields and more to help you automate a workflow. 100% Hosted in the Amazon Cloud!
+Website visitors can send and receive files with your Hosted~FTP~ account. Branding, custom fields and more to help automate workflows. 100% Hosted in the Amazon Cloud!
 
 Visit www.hostedftp.com to learn more about *FTP in the Cloud*
 
@@ -48,9 +48,13 @@ Login to http://ftp.hostedftp.com and click the Plugin Tab. Add custom fields, l
 
 == Changelog ==
 
+= 1.2 =
+
+Updated to use Widget class as per 2.8 spec. New screenshots.
+
 = 1.1 =
 
-File download from any Hosted~FTP~ anonymous/public folders
+File download from anonymous/public folders
 
 = 1.0 =
 
